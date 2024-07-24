@@ -41,4 +41,3 @@ desc sales;
 select * from members;
 select * from menu;
 select * from sales;
-
